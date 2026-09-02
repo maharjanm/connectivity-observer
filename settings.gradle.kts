@@ -24,3 +24,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "connectivity-observer"
 include(":app")
+include(":connectivity")
+include(":sample")
